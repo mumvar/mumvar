@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mumvar
 - 👀 I’m interested in ...machine learning, data science and full stack engineering
-- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...any project relating to my interests
 - 📫 How to reach me ...mumvar01@gmail.com
 - 😄 Pronouns: ...he/him
